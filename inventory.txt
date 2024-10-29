@@ -1,0 +1,22 @@
+{"makeModel":"2EN996EDQ3","year":2007,"retailPrice":24825,"vehicleId":1}
+{"makeModel":"Toyota Highlander","year":2003,"retailPrice":17297,"vehicleId":3}
+{"makeModel":"Toyota Highlander","year":1990,"retailPrice":15240,"vehicleId":1}
+{"makeModel":"YXEhF4OVGX","year":1997,"retailPrice":36174,"vehicleId":10}
+{"makeModel":"7rM3xm6yGK","year":1988,"retailPrice":43023,"vehicleId":11}
+{"makeModel":"ROGdiOw2et","year":1986,"retailPrice":27727,"vehicleId":12}
+{"makeModel":"2mqkZ0rfu0","year":1986,"retailPrice":25589,"vehicleId":13}
+{"makeModel":"4dQvCTvtXQ","year":2013,"retailPrice":17790,"vehicleId":14}
+{"makeModel":"k0r7o9NWFS","year":2015,"retailPrice":24582,"vehicleId":15}
+{"makeModel":"uvbBQE1iYX","year":2007,"retailPrice":31341,"vehicleId":3}
+{"makeModel":"QGl2pXI4kO","year":1993,"retailPrice":34109,"vehicleId":6}
+{"makeModel":"ZjkIKl3Z4i","year":2001,"retailPrice":23187,"vehicleId":7}
+{"makeModel":"Toyota Highlander","year":2002,"retailPrice":16616,"vehicleId":5}
+{"makeModel":"Toyota Highlander","year":2002,"retailPrice":16616,"vehicleId":5}
+{"makeModel":"3Ju8Z27Rnh","year":1988,"retailPrice":19518,"vehicleId":9}
+{"makeModel":"jLIuTeumcx","year":1987,"retailPrice":38696,"vehicleId":2}
+{"makeModel":"9W9GWsvRbM","year":1990,"retailPrice":28484,"vehicleId":3}
+{"makeModel":"Toyota Highlander","year":1988,"retailPrice":15330,"vehicleId":1}
+{"makeModel":"Toyota Highlander","year":1988,"retailPrice":15330,"vehicleId":1}
+{"makeModel":"Toyota Highlander","year":1988,"retailPrice":15330,"vehicleId":1}
+{"makeModel":"Toyota Highlander","year":1988,"retailPrice":15330,"vehicleId":1}
+{"makeModel":"Toyota Highlander","year":1988,"retailPrice":15330,"vehicleId":1}
